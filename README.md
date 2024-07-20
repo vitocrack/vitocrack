@@ -1,7 +1,7 @@
 Hi, my name is Vitor.
 =======================
 
-I love programming and messing with UNIX-based Operational Systems.
+I like programming and messing with UNIX-based Operational Systems.
 
 * 🧠  I'm learning Python and Linux.
 
